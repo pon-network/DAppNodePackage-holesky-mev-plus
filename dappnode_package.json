@@ -1,6 +1,6 @@
 {
   "name": "mev-plus-holesky.public.dappnode.eth",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Restaking Cloud side car execution environment for Holesky",
   "type": "service",
   "author": "Blockswap Labs",
